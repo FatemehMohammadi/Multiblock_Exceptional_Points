@@ -93,6 +93,3 @@ zero-based. Products act rightmost first, so exported chronological loop
 commands reverse the mathematical word. Sheet labels follow the chosen
 branch-cycle convention and may need to be matched to an eigensolver or
 experiment by a separate continuation.
-
-The calculations concern pole permutations, not full braid images,
-dynamical state transfer or quantum-generator compatibility.
