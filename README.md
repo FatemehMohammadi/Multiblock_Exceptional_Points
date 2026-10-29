@@ -96,8 +96,3 @@ experiment by a separate continuation.
 
 The calculations concern pole permutations, not full braid images,
 dynamical state transfer or quantum-generator compatibility.
-
-## Citation
-
-Please cite the accompanying paper when using these constructions or
-calculations. Add its publication DOI to `CITATION.cff` when available.
