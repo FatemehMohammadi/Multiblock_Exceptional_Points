@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+title: "Sparse control of resonance permutations around multiblock exceptional points"
+authors:
+  - family-names: Mohammadi
+    given-names: Fatemeh
+version: 0.10.2
+date-released: 2026-10-29
+type: software
